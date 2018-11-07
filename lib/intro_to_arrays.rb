@@ -5,4 +5,5 @@ end
 
 array_with_two_elements
   array = ["hello", "moto"]
+  array
 end
