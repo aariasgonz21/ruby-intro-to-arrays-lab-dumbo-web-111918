@@ -19,3 +19,11 @@ end
 last_element(array)
   array[-1]
 end
+
+first_element_with_array_methods(array)
+  array.shift()
+end
+
+last_element_with_array_methods(array)
+  array.pop()
+end
